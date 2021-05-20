@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "devDependencies": {
+    "fusuma": "^2.8.4"
+  }
+}
