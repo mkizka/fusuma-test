@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "postinstall": "echo postinstall"
+    "postinstall": "exit 1"
   },
   "devDependencies": {
     "fusuma": "^2.8.4"
