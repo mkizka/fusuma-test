@@ -1,5 +1,4 @@
 {
-  "name": "fusuma-test",
   "private": true,
   "scripts": {
     "postinstall": "exit 1"
